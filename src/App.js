@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import RISO from './RISO.jpg';
 import './App.css';
 
 class App extends Component {
@@ -7,17 +7,15 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
+          <img src={RISO} className="App-logo" alt="logo" />
+          <br></br>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://www.instagram.com/ridesocietypensacola"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            <i class="fab fa-instagram"></i> @ridesocietypensacola
           </a>
         </header>
       </div>
