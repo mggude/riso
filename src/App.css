@@ -2,7 +2,7 @@
   text-align: center;
 }
 
-.App-logo {
+.logo {
   /* animation: App-logo-spin infinite 20s linear; */
   height: 85vmin;
   pointer-events: none;
@@ -34,8 +34,8 @@
 
 @media screen and (max-width: 640px) {
 
-	.App-logo {
-		height: 100vh;
+	.logo {
+		height: 80vh;
 	}
 
 

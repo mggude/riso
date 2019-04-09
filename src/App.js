@@ -13,7 +13,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img src={RISO} className="App-logo" alt="logo" />
+            <img src={RISO} className="logo" alt="logo" />
           </a>
           
           <br></br>
