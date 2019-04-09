@@ -7,7 +7,15 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={RISO} className="App-logo" alt="logo" />
+          <a
+            className="App-link"
+            href="https://www.instagram.com/ridesocietypensacola"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img src={RISO} className="App-logo" alt="logo" />
+          </a>
+          
           <br></br>
           <a
             className="App-link"
