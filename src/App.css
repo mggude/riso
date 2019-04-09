@@ -5,7 +5,7 @@
 
 .logo {
   /* animation: App-logo-spin infinite 20s linear; */
-  height: 85vmin;
+  height: 100vmin;
   pointer-events: none;
 }
 
@@ -32,16 +32,3 @@
     transform: rotate(360deg);
   }
 }
-
-/* @media screen and (max-width: 640px) {
-
-	.logo {
-		height: 80vh;
-  }
-  
-  .App-header {
-    height: 100vh;
-  }
-
-
-} */
