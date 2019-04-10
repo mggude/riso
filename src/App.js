@@ -6,7 +6,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <header className="App-header">
+        {/* <header className="App-header"> */}
           <a
             className="App-link"
             href="https://www.instagram.com/ridesocietypensacola"
@@ -16,7 +16,7 @@ class App extends Component {
             <img src={RISO} className="logo" alt="logo" />
           </a>
           
-        </header>
+        {/* </header> */}
       </div>
     );
   }
