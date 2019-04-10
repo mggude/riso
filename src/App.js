@@ -16,7 +16,7 @@ class App extends Component {
             <img src={RISO} className="logo" alt="logo" />
           </a>
           
-          <br></br>
+          {/* <br></br>
           <a
             className="App-link"
             href="https://www.instagram.com/ridesocietypensacola"
@@ -24,7 +24,7 @@ class App extends Component {
             rel="noopener noreferrer"
           >
             <i class="fab fa-instagram"></i> @ridesocietypensacola
-          </a>
+          </a> */}
         </header>
       </div>
     );
