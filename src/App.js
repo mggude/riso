@@ -16,15 +16,6 @@ class App extends Component {
             <img src={RISO} className="logo" alt="logo" />
           </a>
           
-          {/* <br></br>
-          <a
-            className="App-link"
-            href="https://www.instagram.com/ridesocietypensacola"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <i class="fab fa-instagram"></i> @ridesocietypensacola
-          </a> */}
         </header>
       </div>
     );
